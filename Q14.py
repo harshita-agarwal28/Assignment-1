@@ -8,4 +8,3 @@ while ch=='yes':
     lines.append(text)
 for i in lines:
     print(i)
-print(lines)
